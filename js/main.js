@@ -55,7 +55,7 @@ $(document).ready(function()
                             // const toastLiveExample = document.getElementById('liveToastMail');
                             // const toastBootstrap = bootstrap.Toast.getOrCreateInstance(toastLiveExample);
                             // toastBootstrap.show();
-                            alert("La edad debe ser un nuero entero entre 18 y 120 ")
+                            alert("La edad debe ser un número entero entre 18 y 120 ")
                         }
 
                         else if(valido = true)
